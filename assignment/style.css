@@ -1,4 +1,14 @@
 /* Give your page a fun background color */
+body { background-color: #c9eb34; }
+header { background-color: #3459eb; }
+footer { background-color: #9f34eb;}
+h1 { text-align: center;}
+p { color: aliceblue;
+font-style: italic;
+}
+img { border: 2em double #32a1ce;
+}
+ul { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
 /* Make the header and footer a different color from the background */
 
